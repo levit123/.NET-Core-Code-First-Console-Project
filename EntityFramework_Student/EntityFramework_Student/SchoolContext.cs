@@ -7,7 +7,7 @@ namespace EntityFramework_Student
 {
     public class SchoolContext : DbContext
     {
-        public SchoolContext(): base("MySchoolDB")
+        public SchoolContext()
         {
             Database.SetInitializer<SchoolContext>(new CreateDatabaseIfNotExists<SchoolContext>());
         }

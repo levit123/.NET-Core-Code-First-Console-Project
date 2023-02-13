@@ -32,3 +32,38 @@ C:\Users\Owner\source\repos\EntityFramework_Student\EntityFramework_Student\obj\
 C:\Users\Owner\source\repos\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.dll
 C:\Users\Owner\source\repos\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.pdb
 C:\Users\Owner\source\repos\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.genruntimeconfig.cache
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.exe
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.deps.json
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.runtimeconfig.json
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.runtimeconfig.dev.json
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework_Student.pdb
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.csproj.AssemblyReference.cache
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.AssemblyInfoInputs.cache
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.AssemblyInfo.cs
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.csproj.CoreCompileInputs.cache
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.csproj.CopyComplete
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.dll
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.pdb
+D:\Github Repositories\.NET-Core-Code-First-Console-Project\EntityFramework_Student\EntityFramework_Student\obj\Debug\netcoreapp3.1\EntityFramework_Student.genruntimeconfig.cache

@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj": {}
+    "D:\\Github Repositories\\.NET-Core-Code-First-Console-Project\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj": {
+    "D:\\Github Repositories\\.NET-Core-Code-First-Console-Project\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj",
+        "projectUniqueName": "D:\\Github Repositories\\.NET-Core-Code-First-Console-Project\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj",
         "projectName": "EntityFramework_Student",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj",
+        "projectPath": "D:\\Github Repositories\\.NET-Core-Code-First-Console-Project\\EntityFramework_Student\\EntityFramework_Student\\EntityFramework_Student.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\EntityFramework_Student\\EntityFramework_Student\\obj\\",
+        "outputPath": "D:\\Github Repositories\\.NET-Core-Code-First-Console-Project\\EntityFramework_Student\\EntityFramework_Student\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -40,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "EntityFramework": {
               "target": "Package",
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
